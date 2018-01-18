@@ -1,4 +1,4 @@
-# Project Title
+# Getting Started with Codeship CI with WPEngine
 
 The sole purpose of this repo is to get myself up-to-speed with using Codeship CI with WPEngine
 
