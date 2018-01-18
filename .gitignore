@@ -1,6 +1,7 @@
 # Ignore wp-config.php and .htaccess
 wp-config.php
 .htaccess
+composer.lock
 
 # Ignore the wp-content directory
 /wp-content
